@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\UsersManagement\\UsersManagement\\UsersManagement.csproj",
-      "projectName": "UsersManagement",
-      "projectPath": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\UsersManagement\\UsersManagement\\UsersManagement.csproj",
+      "projectUniqueName": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\UsersManagement\\main\\codes\\codes.csproj",
+      "projectName": "codes",
+      "projectPath": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\UsersManagement\\main\\codes\\codes.csproj",
       "packagesPath": "C:\\Users\\Meta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\UsersManagement\\UsersManagement\\obj\\",
+      "outputPath": "C:\\Users\\Meta\\Desktop\\maktab\\_projects\\UsersManagement\\main\\codes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Meta\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,4 +1,4 @@
-﻿namespace UsersManagement
+﻿namespace codes
 {
     internal class Program
     {
