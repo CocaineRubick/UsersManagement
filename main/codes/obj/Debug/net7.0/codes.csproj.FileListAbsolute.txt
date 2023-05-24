@@ -1,0 +1,15 @@
+C:\Users\Meta\Desktop\maktab\_projects\UsersManagement\main\codes\bin\Debug\net7.0\codes.exe
+C:\Users\Meta\Desktop\maktab\_projects\UsersManagement\main\codes\bin\Debug\net7.0\codes.deps.json
+C:\Users\Meta\Desktop\maktab\_projects\UsersManagement\main\codes\bin\Debug\net7.0\codes.runtimeconfig.json
+C:\Users\Meta\Desktop\maktab\_projects\UsersManagement\main\codes\bin\Debug\net7.0\codes.dll
+C:\Users\Meta\Desktop\maktab\_projects\UsersManagement\main\codes\bin\Debug\net7.0\codes.pdb
+C:\Users\Meta\Desktop\maktab\_projects\UsersManagement\main\codes\obj\Debug\net7.0\codes.csproj.AssemblyReference.cache
+C:\Users\Meta\Desktop\maktab\_projects\UsersManagement\main\codes\obj\Debug\net7.0\codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meta\Desktop\maktab\_projects\UsersManagement\main\codes\obj\Debug\net7.0\codes.AssemblyInfoInputs.cache
+C:\Users\Meta\Desktop\maktab\_projects\UsersManagement\main\codes\obj\Debug\net7.0\codes.AssemblyInfo.cs
+C:\Users\Meta\Desktop\maktab\_projects\UsersManagement\main\codes\obj\Debug\net7.0\codes.csproj.CoreCompileInputs.cache
+C:\Users\Meta\Desktop\maktab\_projects\UsersManagement\main\codes\obj\Debug\net7.0\codes.dll
+C:\Users\Meta\Desktop\maktab\_projects\UsersManagement\main\codes\obj\Debug\net7.0\refint\codes.dll
+C:\Users\Meta\Desktop\maktab\_projects\UsersManagement\main\codes\obj\Debug\net7.0\codes.pdb
+C:\Users\Meta\Desktop\maktab\_projects\UsersManagement\main\codes\obj\Debug\net7.0\codes.genruntimeconfig.cache
+C:\Users\Meta\Desktop\maktab\_projects\UsersManagement\main\codes\obj\Debug\net7.0\ref\codes.dll
